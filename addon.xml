@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.PACOTV" name="[COLOR yellow]PACO[/COLOR] [COLOR blue]TV[/COLOR]" version="0.3.2c" provider-name="PACOATV">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">PACOTV</summary>
+    <description lang="en">[COLOR red][B]PACOTV[/B][/COLOR] es un fork de PACOTV de uso privado.</description>
+    <disclaimer lang="en">[B]Queda prohibida la distribución de este addon.[/B] La vulneración de esta prohibición exonerará de culpa a su autor siendo el único responsable quien lo haya distribuido ilegalmente.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>

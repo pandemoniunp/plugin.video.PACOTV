@@ -1,0 +1,48 @@
+#EXTINF:-1,Eurosport 2 HD"000-german.m3u
+http://84.209.130.254:8001/1:0:19:2A0:26:46:E080000:0:0:0:
+
+#EXTINF:-1,Eurosport 2"000-german.m3u
+http://84.209.130.254:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
+
+#EXTINF:-1,-Eurosport 2"000-PalcoVIP.m3u
+http://iptv.sat-elit.net/hls/539/index.m3u8
+
+#EXTINF:-1,#EXTINF:-1  “UK”EUROSPORT 2"000-PalcoVIP.m3u
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1,RUS-Eurosport 2"00000-Area de trabajo Sportcenter.m3u
+http://iptv.sat-elit.net/hls/539/index.m3u8
+
+#EXTINF:-1,RUS-Eurosport 2 rtmp"00000-Area de trabajo Sportcenter.m3u
+rtmp://iptv.sat-elit.net/iptv/539
+
+#EXTINF:-1,Eurosport 2 (Eng/Rus)"Altechnoe.m3u
+http://77.90.73.1:4022/udp/233.136.41.19:1234
+
+#EXTINF:-1,-Eurosport 2"Arena SportCenter.m3u
+http://iptv.sat-elit.net/hls/539/index.m3u8
+
+#EXTINF:-1,EUROSPORT 2"Arena SportCenter.m3u
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1,#EXTINF:-1   EuroSport 2 (Dual audio)"Barbosa IPTV.m3u
+http://176.51.84.76:1234/udp/233.7.70.81:5000?Vd?u#bt!25
+
+#EXTINF:-1,#EXTINF:-1  “Canais”EUROSPORT 2 (UK)"Canales portugueses.m3u
+http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1,EUROSPORT 2"Chilenos.m3u
+http://83.139.104.101/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Eurosport 2"Gatica Latino.m3u
+http://92.63.88.19:8001/58
+
+#EXTINF:-1,Eurosport 2"Gatica Sport.m3u
+http://149.255.39.122/aasd/8815/index.m3u8
+
+#EXTINF:-1,Eurosport 2"Gatica Sport.m3u
+http://92.63.88.19:8001/58
+
+#EXTINF:-1,#EXTINF:-1  Eurosport 2"IPTV[1].m3u
+http://ccc13.doiptv.com/eurosport2/playlist.m3u8
+

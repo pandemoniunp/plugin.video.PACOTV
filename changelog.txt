@@ -1,0 +1,90 @@
+PalcoTV 0.1beta
+
+- Versión inicial
+- Muchísimos errores ;)
+
+
+
+PalcoTV 0.2beta
+
+- Corregido error que impedía arrancar en Android
+- Se pueden lanzar los enlaces Acestreams (gracias a P2P-Streams, de enen92)
+- Añadido soporte de listas categorizadas de canales
+- Corregidos muchos errores
+
+
+
+PalcoTV 0.2.5
+
+- Soporte de listas M3U de SimpleTV
+- Nueva biblioteca de listas M3U.- Añadido enlace al tutorial para torpes en Youtube ;)
+- Agregada sección de listas M3U para descargar
+- Nuevas "multilistas": XBMCyMás, SPlive, Listas MashUp
+- Nuevas listas XML: Gurb, White Noise, José Rodriguez, etc. (gracias a todos por compartir!)
+
+
+
+PalcoTV 0.2.6
+
+- Añadido buscador de canales en las listas M3U
+- Ahora se descargan las listas y se abren automáticamente
+- Corregidos muchos bugs y mejorado el parseado de listas
+
+
+
+PalcoTV 0.2.61
+
+- Se corrige un bug crítico por el que muchos canales rtmp no se reproducen
+
+
+
+PalcoTV 0.2.7
+
+- Mejorado el comportamiento del buscador (por el momento, sólo las listas M3U descargadas)
+- Agregada agenda de programación TV con eventos de fútbol de la TV de España, Italia y Reino Unido
+  (Cada evento de la agenda se sincroniza con el buscador de canales)
+- Agregado soporte de listas PLX, con biblioteca online de descarga de listas y varias listas actualizables
+- Nuevos logos y diseño en general
+
+
+
+PalcoTV 0.2.8
+
+- Agregada la agenda de programación de fútbolenlaTV.com
+- Búsquedas en la agenda cuando hay varios canales de emisión
+- Soporte de nuevas listas P2P (Acestreams, Sopcast y Torrents)
+- El buscador es funcional en listas M3U, PLX y P2P
+- Corregida la lectura de la lista XML "The Blacklist"
+- Se ha agregado la lista de origen de un canal a los resultados de la búsqueda
+- Las listas se guardan con su extensión correspondiente (*.M3U, *.PLX, *.P2P)
+
+
+
+PalcoTV 0.2.85
+
+- Soporte de canales de Movistar TV (utilizando la conexión del abonado)
+- Soporte de thumbnails, fanarts y comentarios en las listas P2P, tanto por defecto en la lista como para cada entrada
+
+
+
+PalcoTV 0.2.86
+
+- Soporte de listas JSN
+- Corregido error por el cuál las listas se descargaban erróneamente en "Mis listas" por el formato entre corchetes (negrita, color, cursiva)
+
+
+
+PalcoTV 0.2.9
+
+- Conectores de Allmyvideos, Streamcloud, Played.to y Vidspot
+- Soporte de enlaces cortos de más de 340 servicios de acortadores de enlaces
+- Soporte de vídeos y canales de usuarios de Youtube
+- Mejorado el parseo de listas JSN y PLX y mejorado el formato de presentación de listas y canales
+- La carpeta "mis listas" pasa a ubicarse en XBMC/addons para evitar que se borren las listas al actualizar el addon
+- Añadido control parental sobre las listas de adultos
+- Añadidas nuevas listas de películas, documentales y deportes
+- Varios bugs menores corregidos
+
+
+
+
